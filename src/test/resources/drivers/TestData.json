@@ -1,0 +1,7 @@
+{
+  "givenStringUrlTest": "https://jsonplaceholder.typicode.com/posts/1978781",
+  "postsEndpoint": "https://jsonplaceholder.typicode.com/posts",
+ "postsPostEndpoint":"https://jsonplaceholder.typicode.com/posts",
+ "putPostEndpoint":"https://jsonplaceholder.typicode.com/posts/1",
+ "deletePostEndpoint":"https://jsonplaceholder.typicode.com/posts"
+}
